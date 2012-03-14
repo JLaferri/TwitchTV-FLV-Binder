@@ -1,0 +1,20 @@
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\JWPlayer\jwplayer.js
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\JWPlayer\player.swf
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\FLV Binder GUI.exe
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\FLV Binder GUI.pdb
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV Binder GUI.csproj.ResolveComReference.cache
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV_Binder_GUI.Main.resources
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV_Binder_GUI.Properties.Resources.resources
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV Binder GUI.exe
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV Binder GUI.pdb
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jas\Documents\Projects\FLV Binder GUI\FLV Binder GUI\obj\x86\Debug\FLV_Binder_GUI.TwitchDLDialog.resources
