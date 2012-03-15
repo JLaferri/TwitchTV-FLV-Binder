@@ -193,7 +193,9 @@ namespace FLV_Binder_GUI
         {
             mainForm.AddFLVs((FLVDescriptor[])e.Result);
 
-            MessageBox.Show("Files downloaded and added to video list.");
+            //Flash this form and main form to indicate download completion and additions to list
+            FlashWindow.Flash(this);
+            FlashWindow.Flash(mainForm);
         }
 
     }
